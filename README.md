@@ -16,12 +16,14 @@ trophies, add friends, and view gaming activities.
 - Track game progress and trophies.
 - Record game purchases.
 - Manage friends and multiplayer sessions.
+- Manage gaming notifications.
 
 ### Tools and Technologies
 
 - Java
 - SQL
-- SQLite
+- MySQL
+- MySQL Workbench
 - Visual Studio Code
 - GitHub
 

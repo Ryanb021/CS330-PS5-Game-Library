@@ -23,17 +23,24 @@
 hs_err_pid*
 replay_pid*
 
-# SQLite database files
-*.db
-*.sqlite
-*.sqlite3
-
 # VS Code
 .vscode/
 
-# Build files
+# Java compiled files
+*.class
+
+# Build folders
 target/
 out/
+bin/
 
-# Environment variables
+# Database credentials
 .env
+db.properties
+
+# Database backups
+*.bak
+
+# Operating system files
+.DS_Store
+Thumbs.db
